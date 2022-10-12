@@ -1,0 +1,9 @@
+﻿  main.cpp
+x64\Release\anti.obj : warning LNK4042: object specified more than once; extras ignored
+LINK : warning LNK4067: ambiguous entry point; selected 'mainCRTStartup'
+  Generating code
+  223 of 3220 functions ( 6.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Injector.vcxproj -> D:\Dextrous Kernal Injector\x64\Release\Inject.exe
